@@ -1,0 +1,9 @@
+server:
+  host:
+    localhost
+  port:
+    8080
+postgres:
+  database:
+    uri:
+      postgres://postgres:rafik22847@localhost:5432/application_database

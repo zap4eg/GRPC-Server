@@ -6,4 +6,4 @@ server:
 postgres:
   database:
     uri:
-      postgres://postgres:rafik22847@localhost:5432/application_database
+      postgres://postgres:password@localhost:5432/application_database
